@@ -2,6 +2,10 @@
   <img src="https://www.ospreydata.com/wp-content/uploads/AI-vs-ML-vs-Deep-Learning.png" width="512" height="215"/>
 </p>
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
+
 ## Mathematics: 
 
 #### Linear Algebra
@@ -50,7 +54,7 @@
 
 ## Week 3
 
-1. [Cost Function](https://medium.com/@lachlanmiller_52885/understanding-and-calculating-the-cost-function-for-linear-regression-39b8a3519fcb)
-2. [Gradient Descent](https://medium.com/@montjoile/an-introduction-to-gradient-descent-algorithm-34cf3cee752b)
-    - [codebasics](https://youtu.be/vsWrXfO3wWw)
+1. Cost Function - [Article](https://medium.com/@lachlanmiller_52885/understanding-and-calculating-the-cost-function-for-linear-regression-39b8a3519fcb)
+2. Gradient Descent - [Article](https://medium.com/@montjoile/an-introduction-to-gradient-descent-algorithm-34cf3cee752b)
+    - [Video](https://youtu.be/vsWrXfO3wWw)
 3. [Andrew Ng Lecture 1-10(1.1-2.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 
