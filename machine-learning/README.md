@@ -53,4 +53,4 @@
 1. [Cost Function](https://medium.com/@lachlanmiller_52885/understanding-and-calculating-the-cost-function-for-linear-regression-39b8a3519fcb)
 2. [Gradient Descent](https://medium.com/@montjoile/an-introduction-to-gradient-descent-algorithm-34cf3cee752b)
     - [codebasics](https://youtu.be/vsWrXfO3wWw)
-3. [Andrew Ng Lecture 1-10(1.1-2.7](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 
+3. [Andrew Ng Lecture 1-10(1.1-2.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 
