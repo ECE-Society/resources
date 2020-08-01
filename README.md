@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://i.imgur.com/2N5QNmU.png" width="640" height="320"/>
+</p>
 
-# Resources and Roadmaps 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/ECE-Society/resources/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ECE-Society/resources?style=social)](https://github.com/ECE-Society/resources/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ECE-Society/resources?style=social&label=Fork&maxAge=2592000)](https://github.com/ECE-Society/resources/network)
+
+
 
 
 Initiative by [ECE Society]() to share field-wise learning resources.
