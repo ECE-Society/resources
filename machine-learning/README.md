@@ -58,3 +58,13 @@
 2. Gradient Descent - [Article](https://medium.com/@montjoile/an-introduction-to-gradient-descent-algorithm-34cf3cee752b)
     - [Video](https://youtu.be/vsWrXfO3wWw)
 3. [Andrew Ng Lecture 1-10(1.1-2.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 
+
+## Week 4
+
+1. [Andrew Ng Lecture 11-42(2.8-7.4)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+    - _25 - 31 is Octave tutorials and is optional_
+2. Simple Linear Regression - [Udemy](https://drive.google.com/drive/folders/1AnftW2Qq85Pk2B3WWPc76idyB8MSZn_Q?usp=sharing)
+3. Multiple Linear Regression _(Optional)_ - [Udemy](https://drive.google.com/drive/folders/1TClpMt17X2bfo8wh6_rTOgY5DPqO8cWl?usp=sharing)
+4. Logistic Regression - [Udemy](https://drive.google.com/drive/folders/1Ki_GjB7Gy0jXz6xaN-dWS1BM-LtRSUqs?usp=sharing)
+5. Regularisation - [Coursera](https://drive.google.com/drive/folders/1mXd8WIJv9uTgIHhJGp0VrNSUu7-ucUez?usp=sharing)  
+
