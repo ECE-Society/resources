@@ -22,7 +22,9 @@
 
 ### Challenges 
 * [JavaScript 30 Days Challenge](https://javascript30.com/)
+* [CSS 100 day Challenge](https://100dayscss.com/)
 * [CodePen Challenges](https://codepen.io/challenges)
+* [151 Days of Code](https://151daysofcode.netlify.app/)
 
 ### Other Resources: Images, Icons, Docs, and others 
 * [IndexTech](https://theindex.tech/)
