@@ -7,7 +7,7 @@
 ### Books
 * [HTML5](https://goalkicker.com/HTML5Book/) 
 * [CSS3](https://books.goalkicker.com/CSSBook/)
-* [JavaScript](https://www.notion.so/Beginner-JavaScript-e2ef045754d14e96b93791f638bbcaf64)
+* [JavaScript](https://eloquentjavascript.net/)
 
 ### Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/)
